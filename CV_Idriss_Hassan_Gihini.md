@@ -60,7 +60,7 @@
 
 ## 📫 Me contacter
 📧 **Email :** *(idrisshassanguihini632@gmail.com)*  
-🌐 **GitHub :** [github.com/ing_idrisshg](https://github.com/ing_idrisshg)  
+🌐 **GitHub :** [github.com/IdrissHassanGuihini](https://github.com/IdrissHassanGuihini)  
 📍 **Localisation :** Sétif, Algérie  
 
 ---
